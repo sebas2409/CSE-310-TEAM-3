@@ -4,3 +4,4 @@
 * graphical interface
 * github api connection
 * muli user aplication (i.e. logins.)
+* SQL database for storing information (ex. user profiles)
