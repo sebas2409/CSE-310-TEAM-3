@@ -7,11 +7,13 @@
 * Reese Bernard
  
 ## Software Description
+* web application
 * graphical interface
 * github api connection
 * muli user aplication (i.e. logins.)
  
 ## Architecture
+* User login
 * SQL database for storing information (e.g. user profiles)
  
 ## Software Features
