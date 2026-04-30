@@ -1,4 +1,4 @@
-# CSE-310-TEAM-3
+# GitHub Collaborator
  
 ## Team Members
 * Keong Nunn
@@ -12,11 +12,13 @@
 * muli user aplication (i.e. logins.)
  
 ## Architecture
+* SQL database for storing information (e.g. user profiles)
  
 ## Software Features
- 
-* [ ] First feature here
-* [ ] Second feature here
+* [ ] Chat Feature
+* [ ] Code viewer
+* [ ] Connect to GitHub
+* [ ] Annotate code
 * [ ] Keep going ....
  
 ## Team Communication
@@ -34,9 +36,3 @@
  
 ## Reflections
 
-
-## GitHub Collaborator
-* graphical interface
-* github api connection
-* muli user aplication (i.e. logins.)
-* SQL database for storing information (e.g. user profiles)
